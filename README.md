@@ -44,8 +44,9 @@ If you see your model in https://github.com/OpenVisionE2/openvision-development-
 
 ---
 
-# Compile
+# Compile (it won't compile anymore)
 
+It won't compile unless the metas are public or you're a part of the OV team.
 You could compile Open Vision for so many brands/models:
 * Vision-metas: https://github.com/OpenVisionE2/openvision-development-platform/blob/develop/Vision-metas.md
 * You need Ubuntu Desktop 20.04.x LTS x64 (Native): https://releases.ubuntu.com/
@@ -91,3 +92,8 @@ If you support them they will grow but we need to fight this kind of behavior to
 * VITMOD which is stealing our sources even our procfs driver + using so many GPL licensed sources like amlogic kernel without publishing his changes.
 * VTi team which are using Vu+'s sources but they don't publish their changes.
 * linuxsat-support.com, somewhere people don’t respect others.
+* Open Vision which is somehow are more likely to be what stated above.
+
+![Screenshot from 2021-02-06 15-14-09](https://user-images.githubusercontent.com/15664372/107112979-1a405300-688e-11eb-9d14-08bc5429b9cf.png)
+
+"If someone hides something that should be open to public, then it must be something fishy and nasty are done behind the curtain".
